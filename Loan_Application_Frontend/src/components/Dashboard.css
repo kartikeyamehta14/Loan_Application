@@ -1,0 +1,15 @@
+.custom-button {
+    /* Add your custom button styles here */
+    color: #ffffff; /* text color */
+    background-color: #007bff; /* background color */
+    border-color: #007bff; /* border color */
+    border-radius: 5px; /* border radius */
+    padding: 8px 16px; /* padding */
+    font-size: 16px; /* font size */
+  }
+  
+  .custom-button:hover {
+    background-color: #0056b3; /* hover background color */
+    border-color: #0056b3; /* hover border color */
+  }
+  
